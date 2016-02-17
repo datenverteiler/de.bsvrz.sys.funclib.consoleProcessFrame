@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.consoleProcessFrame v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.consoleProcessFrame.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.consoleProcessFrame)
+de.bsvrz.sys.funclib.consoleProcessFrame v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.consoleProcessFrame.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.consoleProcessFrame)
 ================================================
 
 
